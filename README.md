@@ -2,6 +2,7 @@
 
 **Wikipedia Browser** is a React-based web application that allows users to search for any topic and view detailed articles fetched directly from the Wikipedia API. This project simplifies information retrieval and provides a seamless browsing experience.  
 
+Live Link: https://articlearc-one.vercel.app/
 ---
 
 ## Features  
